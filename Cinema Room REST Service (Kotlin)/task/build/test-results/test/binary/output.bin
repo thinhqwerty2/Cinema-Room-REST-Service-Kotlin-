@@ -1,0 +1,56 @@
+[1;31m
+Start test 1[0m
+	[0;34m
+4[0m[0;34m  .   ____          _            __ _ _
+5[0m[0;34m /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+6[0m[0;34m( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+7[0m[0;34m \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+6[0m[0;34m  '  |____| .__|_| |_|_| |_\__, | / / / /
+5[0m[0;34m =========|_|==============|___/=/_/_/_/
+7[0m[0;34m :: Spring Boot ::                (v2.5.6)
+[0m[0;34m
+Ÿ[0m[0;34m2023-04-05 14:35:44.383  INFO 11504 --- [    Test worker] cinema.ApplicationKt                     : Starting ApplicationKt using Java 17.0.6 on Wuyern with PID 11504 (started by thinh in D:\Internship\Cinema Room REST Service (Kotlin)\Cinema Room REST Service (Kotlin)\task)
+±[0m[0;34m2023-04-05 14:35:44.389  INFO 11504 --- [    Test worker] cinema.ApplicationKt                     : No active profile set, falling back to default profiles: default
+ž[0m[0;34m2023-04-05 14:35:47.242  INFO 11504 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 28852 (http)
+Š[0m[0;34m2023-04-05 14:35:47.266  INFO 11504 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+ [0m[0;34m2023-04-05 14:35:47.267  INFO 11504 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+£[0m[0;34m2023-04-05 14:35:47.478  INFO 11504 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+°[0m[0;34m2023-04-05 14:35:47.478  INFO 11504 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2930 ms
+¦[0m[0;34m2023-04-05 14:35:52.355  INFO 11504 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+­[0m[0;34m2023-04-05 14:35:52.436  INFO 11504 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 28852 (http) with context path ''
+°[0m[0;34m2023-04-05 14:35:52.497  INFO 11504 --- [    Test worker] cinema.ApplicationKt                     : Started ApplicationKt in 8.958 seconds (JVM running for 10.452)
+¦[0;34m2023-04-05 14:35:53.173  INFO 11504 --- [io-28852-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+™[0m[0;34m2023-04-05 14:35:53.173  INFO 11504 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+‘[0m[0;34m2023-04-05 14:35:53.176  INFO 11504 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+[0m[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
+4[0;34mSeat(row=1, column=1, avail=false, price=0)
+[1;31m
+Start test 4[0m
+4[0;34mSeat(row=1, column=1, avail=false, price=0)
+[1;31m
+Start test 5[0m
+5[0;34mSeat(row=10, column=1, avail=false, price=0)
+5[0;34mSeat(row=1, column=10, avail=false, price=0)
+6[0;34mSeat(row=-1, column=-1, avail=false, price=0)
+[1;31m
+Start test 6[0m
+4[0;34mSeat(row=2, column=5, avail=false, price=0)
+H[0;34mTicket(token='18030160-abae-46fd-9b9c-8b625b47f82a', seat=null)
+L[0m[0;34mTicket(token='17931f38-9a08-407b-bbea-39031f54f197', seat=null)
+[1;31m
+Start test 7[0m
+[1;31m
+Start test 8[0m
+[1;31m
+Start test 9[0m
+8[0m[0;34mSeat(row=7, column=4, avail=false, price=0)
+[1;31m
+Start test 10[0m
+[1;31m
+Start test 11[0m
+L[0m[0;34mTicket(token='77c4e851-c8cf-4b86-83f8-5b1e742a741c', seat=null)
+[1;31m
+Start test 12[0m
